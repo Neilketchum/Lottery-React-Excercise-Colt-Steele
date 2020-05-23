@@ -1,0 +1,9 @@
+.RenderBalls_ball{
+    display: inline;
+    border:1px solid red;
+    margin-left: 1.2rem;
+    border-radius: 50%;
+    background-color: coral;
+    padding:1.2rem;
+
+}

@@ -1,0 +1,31 @@
+.container{
+    width:500px;
+    height:300px;
+    border:1px solid black;
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    padding:2px;
+    background-color: darkgrey;
+}
+body{
+    background-color: darkslategray;
+}
+.btn-primary{
+    display: block;
+    margin-left: 40%;
+    margin-top: 25%;
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 0;
+    background-color: cornflowerblue;
+    color: #f4f4f4;
+}
+.heading{
+    margin-bottom: 50px;
+}
+.Lottery_Balls{
+    display: flex;
+    justify-content: space-evenly;
+}
